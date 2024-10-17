@@ -8,6 +8,8 @@ This course is a 100 days, each day a new topic is learned or expanded on, with 
 
 This repository will be my projects I have completed through my journey to evantually be able to use Python seemlessly daily.
 
+Below the goal of this project will be pictures of whay the code does. And a short description of what I learned.
+
 # Goal by the End:
 
 **Basic Python Topics:**
@@ -46,3 +48,38 @@ Real-world applications of Python in tasks like automation, web development, dat
 
 Using Git and GitHub for version control.
 Deploying Python applications to the web.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 1**
+
+Band Name Generator
+
+**Takeaways:**
+
+`print()` 
+`input()`
+
+Learned the basics of how to get input and show what you choose as the output.
+
+![1](https://github.com/user-attachments/assets/d60a1d2e-b455-400e-bcf9-95bb02639f10)
+
+**Day 2**
+
+Tip Calculator 
+
+**Takeaways**
+
+`if()`, `elif()`, `else()` 
+
+Learned the basics of if, elif and else statments.
+
+![1](https://github.com/user-attachments/assets/14bf762d-e061-4ebc-8af9-839d88e14550)
+
+
+
+
+
+
+
+
