@@ -119,6 +119,24 @@ This generates a randomly ordered password with however many numbers, symbols an
 
 **Day 6**
 
+Functions
+
+**Takeaways:**
+
+How to define `functions` (create) and call `functions` (Use the function)
+
+This is a simple function that takes an input and creates a new output from the input and with the use of an `f string`
+
+![1](https://github.com/user-attachments/assets/6642107b-e901-4657-88bd-892530470f62)
+
+
+
+
+
+
+
+
+
 
 
 
