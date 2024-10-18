@@ -76,10 +76,19 @@ Learned the basics of if, elif and else statments.
 
 ![1](https://github.com/user-attachments/assets/14bf762d-e061-4ebc-8af9-839d88e14550)
 
+**Day 3**
 
+Treasure Hunt (Star Wars Edition)
 
+**Takeaways:**
 
+Nesting and logical operators such as: and, or and not.
 
+Also used ASCII art.
+
+![1](https://github.com/user-attachments/assets/1b6587c2-17b7-4848-8c68-3f24bebe59b1)
+
+![1](https://github.com/user-attachments/assets/bc121c3e-26d0-4ee6-bef3-1c036ae45618)
 
 
 
