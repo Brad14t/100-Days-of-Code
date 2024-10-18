@@ -1,0 +1,56 @@
+try:
+    print(r'''
+    *******************************************************************************
+              |                   |                  |                     |
+     _________|________________.=""_=.______________|_____________________|_______
+    |                   |  ,-"_,=""     "=.|                  |
+    |___________________|__"=._o`"-._        "=.______________|___________________
+              |                "=._o`"=._      _`"=._                     |
+     _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
+    |                   |    __.--" , ; "=._o." ,-"""-._ ".   |
+    |___________________|_._" , .` ` `` ,  `"-._"-._   ". "__|___________________
+              |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
+     _________|___________| ;"-o`"=._; ." ` '`."\ ` . "-._ /_______________|_______
+    |                   | |o ;    `"-o`"=._``  '` " ,__.--o;   |
+    |___________________|_| ;     (#) `"-o `"=.`_.--_"o.-; ;___|___________________
+    ____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
+    /______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
+    ____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
+    /______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
+    ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+    /______/______/______/______/______/______/______/______/______/______/_____ /
+    *******************************************************************************
+    ''')
+    print("Welcome to Treasure Island.")
+    print("Your mission is to find the treasure.")
+
+    route1 = input('You\'re a Jedi padawan at a fork in the paths of the ancient Jedi Temple. Where do you want to go? '
+                   'Type "left" or "right".\n').lower()
+
+    if route1 == "left":
+        route2 = input('You\'ve encountered a serene lake surrounded by ancient Jedi statues. '
+                       'There is a hidden island in the middle of the lake. '
+                       'Type "wait" to wait for a droid-operated boat. '
+                       'Type "swim" to swim across.\n').lower()
+        if route2 == "wait":
+            route3 = input("You arrive at the island unharmed. "
+                           "You find a mystical door with three panels. One red, "
+                           "one yellow and one blue. "
+                           "Which colour do you choose?\n").lower()
+            if route3 == "red":
+                print(
+                    "The door opens to reveal a room filled with Sith artifacts. A dark presence overwhelms you. Game Over.")
+            elif route3 == "yellow":
+                print("The door opens to reveal a hidden Jedi holocron. You have discovered ancient wisdom. You Win!")
+            elif route3 == "blue":
+                print("The door opens to a creature's lair. You have disturbed a beast. Game Over.")
+            else:
+                print("You chose a panel that doesn't exist. Game Over.")
+        else:
+            print("A dark creature drags you underwater. Game Over.")
+
+    else:
+        print("You fall into an ancient Sith trap. Game Over.")
+
+except KeyboardInterrupt:
+    print("\nProgram interrupted by user. Exiting gracefully.")
