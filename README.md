@@ -82,7 +82,7 @@ Treasure Hunt (Star Wars Edition)
 
 **Takeaways:**
 
-Nesting and logical operators such as: and, or and not.
+Nesting and logical operators such as: `and`, `or` and `not`.
 
 Also used ASCII art.
 
@@ -100,7 +100,9 @@ Learned about modules, how to import them and read through documentation.
 
 Also learned about list, nested lists, how to create, access, `.append()`, `.extend()`
 
+![1](https://github.com/user-attachments/assets/8f60956c-c986-494a-896f-c02258a27322)
 
+![1](https://github.com/user-attachments/assets/31e51751-0582-4958-8b00-7b8890f4285c)
 
 
 
