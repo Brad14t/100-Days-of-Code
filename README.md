@@ -197,9 +197,19 @@ Game that takes different users bids and announces the winner of the auction.
 
 ![2](https://github.com/user-attachments/assets/e72ed3ed-5722-4200-a515-25bbc8488947)
 
+**Day 10**
 
+Calculator
 
+**Takeaways:**
 
+`Functions` with outputs.
+
+Advancing knowledge of dictonaries and how to properly access them.
+
+More function practice.
+
+![1](https://github.com/user-attachments/assets/7d131ca4-daf2-4c0c-8b9d-2cda1300c5a4)
 
 
 
