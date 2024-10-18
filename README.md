@@ -155,8 +155,17 @@ List and String Operations: Utilizing `list manipulations` and `string operation
 
 **Day 8**
 
+Ceasar Cipher
 
+This project takes a message, the user request how many spaces to move the text in the alphabet, escentially encrypting the message. The user can also take messages that have been encrypted and decode them.
 
+**Takeaways:**
+
+`functions` with `inputs`, `positional` vs `Keyword` arguments, importing and using external modules, defining and calling functions, and using lists and basic list operations.
+
+![3](https://github.com/user-attachments/assets/143af6d4-67a3-44cb-9fb6-8b424bd1b06d)
+
+![1](https://github.com/user-attachments/assets/9ac47503-7958-4f79-a4f8-c55eb1d1f35b)
 
 
 
