@@ -90,5 +90,27 @@ Also used ASCII art.
 
 ![1](https://github.com/user-attachments/assets/bc121c3e-26d0-4ee6-bef3-1c036ae45618)
 
+**Day 4**
+
+Rock Paper Scissors 
+
+**Takeaways:**
+
+Learned about modules, how to import them and read through documentation.
+
+Also learned about list, nested lists, how to create, access, `.append()`, `.extend()`
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
