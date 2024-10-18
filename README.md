@@ -104,12 +104,20 @@ Also learned about list, nested lists, how to create, access, `.append()`, `.ext
 
 ![1](https://github.com/user-attachments/assets/31e51751-0582-4958-8b00-7b8890f4285c)
 
+**Day 5**
+
+Password generator
+
+**Takeaways:**
+
+`for` loops and `range`
+
+This generates a randomly ordered password with however many numbers, symbols and letters the user chooses.
+
+![1](https://github.com/user-attachments/assets/b5b16874-f42e-49d4-8a78-58107d31339c)
 
 
-
-
-
-
+**Day 6**
 
 
 
