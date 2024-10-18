@@ -6,7 +6,7 @@ I'm learning code with the help of Dr. Angela Yu's course on Udemy.
 
 This course is a 100 days, each day a new topic is learned or expanded on, with the use of daily projects.
 
-This repository will be my projects I have completed through my journey to evantually be able to use Python seemlessly daily.
+This repository will be my projects I have completed through my journey, to evantually be able to use Python seemlessly daily.
 
 Below the goal of this project will be pictures of whay the code does. And a short description of what I learned.
 
