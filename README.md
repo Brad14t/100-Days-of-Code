@@ -129,12 +129,31 @@ This is a simple function that takes an input and creates a new output from the 
 
 ![1](https://github.com/user-attachments/assets/6642107b-e901-4657-88bd-892530470f62)
 
+**Day 7**
 
+Hangman Game
 
+**Takeaways:**
 
+Game Loop Structure: Use of `while` not `game_over`.
 
+User Input and Processing: Getting user input with `input()` and converting to lowercase with `.lower()`.
 
+Tracking Guessed Letters: Using a `list` to track correct guesses.
 
+String Manipulation: Constructing a display string for the word state.
+
+Conditional Statements: `if`...`else` for controlling game logic.
+
+Game Over Conditions: Ending game based on lives or correct guesses.
+
+List and String Operations: Utilizing `list manipulations` and `string operations`.
+
+![1](https://github.com/user-attachments/assets/7d35fc5c-29af-4267-b832-74a6b2d52025)
+
+![1](https://github.com/user-attachments/assets/1607476e-f29e-46be-b0c0-57b21a32a420)
+
+**Day 8**
 
 
 
